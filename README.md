@@ -1,16 +1,17 @@
-### Hi there 👋
+## 👋 Olá!
+Sou Filipe Alves, **solucionador de problemas** por meio das melhores tecnologias do mercado.
 
-<!--
-**filipealvess/filipealvess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 😊 Quem sou eu (de fato)
+- Estudante do Curso Técnico Integrado em Informática pelo Instituto Federal de Alagoas (IFAL);
+- Aspirante a desenvolvedor web frontend;
+- Apreciador de design de interfaces e desenvolvimento mobile;
 
-Here are some ideas to get you started:
+## 😋 Habilidades Técnicas
+- **Frontend:** HTML, CSS, JavaScript, Vue.js, Nuxt.js, Sass;
+- **Backend:** Node.js, PHP, Flask;
+- **Mobile:** Flutter, React Native;
+- **Banco de Dados:** MySQL, MongoDB;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://img.shields.io/static/v1?style=for-the-badge&label=&message=LinkedIn&color=blue&logo=Linkedin)](https://linkedin.com/in/filipe-alvess)
+[![](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Instagram&color=E1DAD7&logo=Instagram)](https://instagram.com/filipealves.js)
