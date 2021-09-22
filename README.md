@@ -13,5 +13,5 @@ Sou Filipe Alves, **solucionador de problemas** por meio das melhores tecnologia
 - **Banco de Dados:** MySQL, MongoDB;
 
 ---
-[![](https://img.shields.io/static/v1?style=for-the-badge&label=&message=LinkedIn&color=blue&logo=Linkedin)](https://linkedin.com/in/filipe-alvess)
-[![](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Instagram&color=E1DAD7&logo=Instagram)](https://instagram.com/filipealves.js)
+[![](./badges/linkedin.svg)](https://linkedin.com/in/filipe-alvess)
+[![](./badges/instagram.svg)](https://instagram.com/filipealves.js)
