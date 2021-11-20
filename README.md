@@ -1,5 +1,5 @@
 ## 👋 Olá!
-Sou Filipe Alves, **solucionador de problemas** por meio das melhores tecnologias do mercado.
+Sou Filipe Alves, **solucionador de problemas** com domínio das melhores tecnologias do mercado.
 
 ## 😊 Sobre mim:
 - Estudante do Curso Técnico Integrado em Informática pelo Instituto Federal de Alagoas (IFAL);
@@ -7,8 +7,8 @@ Sou Filipe Alves, **solucionador de problemas** por meio das melhores tecnologia
 - Apreciador de design de interfaces e desenvolvimento mobile;
 
 ## 😋 Habilidades técnicas:
-- **Frontend:** HTML, CSS, JavaScript, Vue.js, Nuxt.js, Sass;
-- **Backend:** Node.js, PHP, Flask;
+- **Frontend:** HTML, CSS, JavaScript, VueJS e NuxtJS, ReactJS, Sass;
+- **Backend:** NodeJS, PHP, Flask;
 - **Mobile:** Flutter, React Native;
 - **Banco de Dados:** MySQL, MongoDB;
 
